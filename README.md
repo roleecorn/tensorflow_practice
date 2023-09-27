@@ -1,4 +1,4 @@
-# 使用tnesorflow進行的深度學習練習
+# 使用tensorflow進行的深度學習練習
 
 ## Part1 初入深度學習
 參考[官方文檔](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb)中的範例，進行深度學習練習，分為幾個主要步驟
